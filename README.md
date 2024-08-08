@@ -40,16 +40,21 @@ This project is a simple three-page dashboard for visualizing the performance of
 - Unit tests for ensuring code reliability.
 
 ## Demo
-![Code](Code_animation.gif)
+
+### Project Overview
+![Project Demo](assets/Code_animation.gif)
 *Above GIF shows the coding.*
 
-![Dashboard](Dashboard_animation.gif)
+### Battery Data Dashboard
+![Dashboard](assets/Dashboard_animation.gif)
 *Above GIF demonstrates the working of the Battery Data Dashboard.*
 
-![Cell 5308](5308_animation.gif)
-*Above GIF demonstrates the working of the Battery 5308 Data Dashboard*
+### Battery Cell 5308
+![Cell 5308](assets/5308_animation.gif)
+*Above GIF demonstrates the working of the Battery 5308 Data Dashboard.*
 
-![Cell 5329](5329_animation.gif)
+### Battery Cell 5329
+![Cell 5329](assets/5329_animation.gif)
 *Above GIF demonstrates the working of the Battery 5329 Data Dashboard.*
 
 ## Technologies Used

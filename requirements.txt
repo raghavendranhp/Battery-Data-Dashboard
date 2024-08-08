@@ -1,0 +1,8 @@
+Python-IO
+GitPython==3.1.30
+dash-core-components==2.0.0
+dash-html-components==2.0.0
+plotly==5.16.1
+streamlit==1.27.2
+streamlit-folium==0.15.0
+streamlit-option-menu==0.3.6

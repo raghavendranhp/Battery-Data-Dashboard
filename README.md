@@ -24,14 +24,14 @@ This project is a simple three-page dashboard for visualizing the performance of
 
 
 .
-├── app.py                  # Flask application
-├── streamlit_app.py        # Streamlit application
-├── test_app.py             # Unit tests for Flask application
-├── requirements.txt        # Python dependencies
-├── packages.txt            # System packages required
-├── Procfile                # Command to run the application
-├── battery_database.db     # SQLite database file
-└── README.md               # This file
+├── app.py                  # Flask application  
+├── streamlit_app.py        # Streamlit application  
+├── test_app.py             # Unit tests for Flask application  
+├── requirements.txt        # Python dependencies  
+├── packages.txt            # System packages required  
+├── Procfile                # Command to run the application  
+├── battery_database.db     # SQLite database file  
+└── README.md               # This file  
 
 
 ## Features

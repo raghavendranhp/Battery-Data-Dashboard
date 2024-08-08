@@ -1,7 +1,7 @@
 # 
 
 
-```markdown
+
 # Battery Data Dashboard
 
 ## Overview
@@ -22,7 +22,7 @@ This project is a simple three-page dashboard for visualizing the performance of
 
 ## Project Structure
 
-```
+
 .
 ├── app.py                  # Flask application
 ├── streamlit_app.py        # Streamlit application
@@ -32,7 +32,7 @@ This project is a simple three-page dashboard for visualizing the performance of
 ├── Procfile                # Command to run the application
 ├── battery_database.db     # SQLite database file
 └── README.md               # This file
-```
+
 
 ## Features
 

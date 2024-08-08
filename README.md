@@ -65,7 +65,7 @@ This project is a simple three-page dashboard for visualizing the performance of
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/battery-data-dashboard.git
+    git clone https://github.com/raghavendranhp/Battery-Data-Dashboard.git
     cd battery-data-dashboard
     ```
 

@@ -22,8 +22,6 @@ This project is a simple three-page dashboard for visualizing the performance of
 
 ## Project Structure
 
-
-.
 ├── app.py                  # Flask application  
 ├── streamlit_app.py        # Streamlit application  
 ├── test_app.py             # Unit tests for Flask application  
@@ -40,6 +38,19 @@ This project is a simple three-page dashboard for visualizing the performance of
 - Provides Voltage, Current, Temperature, and Capacity over time graphs for each cell.
 - REST API for accessing battery data.
 - Unit tests for ensuring code reliability.
+
+## Demo
+![Code](Code_animation.gif)
+*Above GIF shows the coding.*
+
+![Dashboard](Dashboard_animation.gif)
+*Above GIF demonstrates the working of the Battery Data Dashboard.*
+
+![Cell 5308](5308_animation.gif)
+*Above GIF demonstrates the working of the Battery 5308 Data Dashboard*
+
+![Cell 5329](5329_animation.gif)
+*Above GIF demonstrates the working of the Battery 5329 Data Dashboard.*
 
 ## Technologies Used
 
